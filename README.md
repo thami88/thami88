@@ -17,5 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center"><img width="300px" height="230px" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility_4x.png" /></h1>
 
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<div class="w3-container w3-red">
+  <h2>Displaying Colors</h2>
+  <p>The w3-color classes can be used to add colors to any HTML element.</p>
+</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thamindu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from SriLanka.</h3>
