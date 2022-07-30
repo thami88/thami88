@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"><img width="300px" height="230px" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility_4x.png" /></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thamindu</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from SriLanka.</h3>
+<h3 align="center">I'm a passionate Developer from SriLanka.</h3>
 
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
