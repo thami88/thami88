@@ -28,4 +28,5 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=ZMFmFsekpKfY&format=png&color=000000"/></a>
 </p>
