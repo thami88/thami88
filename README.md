@@ -29,4 +29,5 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=ZMFmFsekpKfY&format=png&color=000000"/></a>
+    <a href="#"> <img src="https://img.icons8.com/?size=100&id=12eMo7h5rCTp&format=png&color=000000"/></a>
 </p>
