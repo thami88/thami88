@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <a href="#" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png&color=000000"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/?size=48&id=12eMo7h5rCTp&format=png&color=000000"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/?size=48&id=XNQU0Xcm2I9s&format=png&color=000000"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"/> </a>
 </p>
