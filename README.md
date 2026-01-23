@@ -1,4 +1,4 @@
-<!-- ### Hi, I'm Thamindu 👋
+<!-- ### Hi, I'm Thamindu Liyanage 👋
 
 
 **thami88/thami88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
